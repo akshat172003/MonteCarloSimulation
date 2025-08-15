@@ -108,6 +108,3 @@ This simulation is for educational purposes only. Past performance does not guar
 
 Feel free to submit issues, feature requests, or pull requests to improve this portfolio optimization tool.
 
----
-
-*Last updated: 2024*
